@@ -1,0 +1,3 @@
+npm i express passport cors nodemon cookie-session
+npm install passport-google-oauth20
+npm install passport-github2
